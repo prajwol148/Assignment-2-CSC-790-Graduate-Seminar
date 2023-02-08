@@ -1,6 +1,9 @@
 # Assignment-2-CSC-790-Graduate-Seminar
 This is the second assignment for Dr. Santosh KC's CSC 790: Graduate Seminar course.
 <br>
+[Click to view Paper 1]()
+[Click to view Paper 1]()
+<br>
 
 ## 1) Discuss the following (paper 1):
 #### a. Motivation
