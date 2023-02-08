@@ -16,6 +16,7 @@ This is the second assignment for Dr. Santosh KC's CSC 790: Graduate Seminar cou
 #### e. Take home message
 #### f. Scalability and generalizability of the method
 <br>
+
 ### Answer: 
 Paper 1 is the original scientific research paper. It is trying to implement Inductive Learning Programming (ILP). The study is referred to as a first step in the authors' attempt to employ ILP uniquely to automatically acquire intricate descriptions of symbols. This implies that the writers are engaged in original research and working on the new concept.
 
