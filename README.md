@@ -1,6 +1,6 @@
 # Assignment-2-CSC-790-Graduate-Seminar
 This is the second assignment for Dr. Santosh KC's CSC 790: Graduate Seminar course.
-
+<br>
 
 ## 1) Discuss the following (paper 1):
 #### a. Motivation
@@ -9,7 +9,7 @@ This is the second assignment for Dr. Santosh KC's CSC 790: Graduate Seminar cou
 #### d. Data and results
 #### e. Take home message
 #### f. Scalability and generalizability of the method
-
+<br>
 ### Answer: 
 Paper 1 is the original scientific research paper. It is trying to implement Inductive Learning Programming (ILP). The study is referred to as a first step in the authors' attempt to employ ILP uniquely to automatically acquire intricate descriptions of symbols. This implies that the writers are engaged in original research and working on the new concept.
 
@@ -35,18 +35,16 @@ Thus, the learning that we can draw from the experiment can also be stated that 
 This research paper is an original scientific research paper and the author has tried using a new approach for the recognition of symbols discarding the traditional method in which established sets of rules were used to detect the shapes or symbols. The method that the author has approached and has used extract complex structures that can be found in the image and build a vocabulary out of it. The method already has a set of local structures based on previous research. The approach can recognize the shapes in a more meaningful way. 
 The advantage of this method that the author has suggested is that the machine can be more intelligent because the algorithm can pick up on visual concepts without human guidance. It will allow the system to not just consider the shapes and symbols from the dataset, but the system can also extract the information such as text, and build its result upon it. However, the author acknowledges that the method is still far from perfect because of the limited sets of the content of the vocabulary. However, the author seems determined to keep on improving the methodology by improving the vocabulary by expanding the language and adding additional numerical descriptions.
 
-
-
-
 ### F=> 
 The author says that the method they're using to recognize symbols and represent them has a limit. It can only work with a limited number of symbols in its vocabulary. To make the method work better and be able to recognize more symbols, the vocabulary needs to be expanded.
 The algorithm that creates the rules for recognizing symbols needs to be improved so that it can accurately tell the difference or classify the good examples and bad examples. The author thinks that this can be done easily because there are already resources available for analyzing images.
 Additionally, the author wants to include more information about the symbols' shapes by using numbers and statistics. This will require more work, but it will make the method even better at recognizing symbols.
- 
+<br>
+<br>
 ## 2) Write abstracts from both papers (paper 1 and paper 2).
 ### Abstract for Paper 1:
 	Machine learning has significantly improved in recognizing symbols, because of the current research works that are happening in the fields of Artificial Intelligence. Machine learning methods are often employed for symbol recognition tasks, including musical symbol recognition, pattern matching, and handwritten character recognition. But there are several issues with the approach that is currently being employed. This paper proposes the use of an approach known as Inductive Logic Programming (ILP), which uses first-order logic to represent hypotheses and data, to automatically learn nontrivial descriptions of symbols, based on a formal description, and be used for symbol recognition. This approach is motivated by the fact that unsupervised learning can be more effective than supervised learning methods. To validate our concept, we employ datasets of electrical graphical symbols represented using our first-order logic vocabulary. The suggested model is a first step in that direction and more of a proof-of-concept than a completely functional framework. To the best of our knowledge, the results obtained thus far are extremely efficient, but the efficiency and accuracy of the model may still be improvised by improving the vocabulary by expanding the language and adding additional numerical descriptions. This proves the viability of using ILP for symbol recognition.
-
+<br>
 ### Abstract for Paper 2:
 	Computer vision's topic of object recognition is exciting since it pushes the limits of what is conceivable through image analysis. To fully realize the potential of appearance-based object identification, feature/descriptor extraction, and matching are essential. However, the problem of recognizing objects in cluttered or textured environments has proven to be a bit difficult. Current methods struggle to extract stable and distinguishable features, leading to less accurate feature matching for line-rich color scenes/objects such as cars, buildings, and faces and ultimately underperforming object recognition algorithms. This research suggests using a novel descriptor, RSILC (Rotation- and Scale-Invariant, Line-based Color-aware descriptor), for object identification tasks to address these problems. To extract robust features, RSILC makes use of a special mix of line-based features and color information, even in congested or textured settings. It is particularly well suited for face-matching applications, where standard descriptors often struggle with changes in pose and size, thanks to its rotation and scale invariance. Our tests show that RSILC is more effective than currently used generic descriptions. The findings demonstrate that, especially in congested or textured surroundings, RSILC surpasses these descriptors in terms of accuracy and efficiency. The outstanding performance of RSILC demonstrates its potential as a formidable tool for object recognition.
 
