@@ -1,8 +1,11 @@
 # Assignment-2-CSC-790-Graduate-Seminar
 This is the second assignment for Dr. Santosh KC's CSC 790: Graduate Seminar course.
 <br>
-[Click to view Paper 1]()
-[Click to view Paper 1]()
+<br>
+[Click to view Paper 1](https://github.com/prajwol148/Assignment-2-CSC-790-Graduate-Seminar/blob/main/Paper%201.pdf)
+<br>
+<br>
+[Click to view Paper 1](https://github.com/prajwol148/Assignment-2-CSC-790-Graduate-Seminar/blob/main/Paper%202.pdf)
 <br>
 
 ## 1) Discuss the following (paper 1):
